@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("cool-background.png");
+}
+
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: xx-large;
+    margin: 10px;    
+}
+
+#screen{
+    padding: 10px;
+    border-radius: 1%;
+    border-width: thin;
+    margin: 10px;
+    text-align: right;
+}
+
+.container{
+   text-align: center;
+   margin-top: 6%;
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    font-size: 34px;
+}
+
+button{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 4px;
+    width: 90px;
+    font-size: 50px;
+    background: rgb(241, 242, 239);
+    border-radius: 5%;
+    border-width: thin;
+    margin: 2px;
+}
